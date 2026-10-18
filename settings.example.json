@@ -1,0 +1,19 @@
+{
+  "wirelessMode": "lan",
+  "ssid": "",
+  "password": "",
+  "channel": 6,
+  "networkInterface": "",
+  "targetBluetooth": "",
+  "adapterBluetooth": "",
+  "accessPointMac": "",
+  "port": 17000,
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "physicalWidthMm": 0,
+  "physicalHeightMm": 0,
+  "maxBitRate": 0,
+  "deviceName": "专业拧瓶盖员",
+  "mfiDir": ""
+}
