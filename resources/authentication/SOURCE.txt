@@ -1,0 +1,8 @@
+实验性认证材料，与 MacPlay / LinuxPlay 随包的是同一组：
+identity.pk8、certificate.p7b。
+
+来源是公开发布的 DiPlay 0.2.6 安装包中的 assets/offline-mfi/。
+https://github.com/shihabal3amri/DiPlay/releases/tag/v0.2.6
+
+不是本项目新签发的身份，也不表示通过了 Apple MFi 认证。
+代码许可证不自动授予这组材料的再分发权利。
