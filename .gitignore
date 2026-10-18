@@ -1,0 +1,16 @@
+build/
+.cache/
+*.o
+*.a
+*.so
+*.dSYM
+.DS_Store
+
+# Machine-local session data. Do not commit.
+settings.json
+pairing/
+*.h264
+screen.h264
+
+# User-imported copies outside the bundled resources directory.
+/authentication/
